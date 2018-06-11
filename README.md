@@ -1,5 +1,5 @@
 # IDataBase
-Interfaz de base de datos para sqlite3.
+Interfaz básica en python para base de datos para sqlite3. Funcion para consultar y funcion para modificar (crear tablas, insertar valores, borrar...). 
 
 # Ejemplo de uso
 ```python
